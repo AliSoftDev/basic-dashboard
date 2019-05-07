@@ -1,11 +1,11 @@
 {
-  "main.js": "/AliSoftDev/basic-dashboard/static/js/main.a03be5da.chunk.js",
-  "main.js.map": "/AliSoftDev/basic-dashboard/static/js/main.a03be5da.chunk.js.map",
-  "runtime~main.js": "/AliSoftDev/basic-dashboard/static/js/runtime~main.cdcc8fe2.js",
-  "runtime~main.js.map": "/AliSoftDev/basic-dashboard/static/js/runtime~main.cdcc8fe2.js.map",
-  "static/js/2.9d1cacb6.chunk.js": "/AliSoftDev/basic-dashboard/static/js/2.9d1cacb6.chunk.js",
-  "static/js/2.9d1cacb6.chunk.js.map": "/AliSoftDev/basic-dashboard/static/js/2.9d1cacb6.chunk.js.map",
-  "index.html": "/AliSoftDev/basic-dashboard/index.html",
-  "precache-manifest.4bc9151c785a0e8c6feaeed36e9c65aa.js": "/AliSoftDev/basic-dashboard/precache-manifest.4bc9151c785a0e8c6feaeed36e9c65aa.js",
-  "service-worker.js": "/AliSoftDev/basic-dashboard/service-worker.js"
+  "main.js": "/basic-dashboard/static/js/main.a03be5da.chunk.js",
+  "main.js.map": "/basic-dashboard/static/js/main.a03be5da.chunk.js.map",
+  "runtime~main.js": "/basic-dashboard/static/js/runtime~main.6e90de5c.js",
+  "runtime~main.js.map": "/basic-dashboard/static/js/runtime~main.6e90de5c.js.map",
+  "static/js/2.c30bf4d3.chunk.js": "/basic-dashboard/static/js/2.c30bf4d3.chunk.js",
+  "static/js/2.c30bf4d3.chunk.js.map": "/basic-dashboard/static/js/2.c30bf4d3.chunk.js.map",
+  "index.html": "/basic-dashboard/index.html",
+  "precache-manifest.8db9f1122f5ce723986b6a825963ef29.js": "/basic-dashboard/precache-manifest.8db9f1122f5ce723986b6a825963ef29.js",
+  "service-worker.js": "/basic-dashboard/service-worker.js"
 }

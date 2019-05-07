@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AliSoftDev/basic-dashboard/precache-manifest.4bc9151c785a0e8c6feaeed36e9c65aa.js"
+  "/basic-dashboard/precache-manifest.8db9f1122f5ce723986b6a825963ef29.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/AliSoftDev/basic-dashboard/index.html", {
+workbox.routing.registerNavigationRoute("/basic-dashboard/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
